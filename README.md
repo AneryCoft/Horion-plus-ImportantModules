@@ -1,9 +1,11 @@
 # Horion-plus-ImportantModules
-Horion plus Client Important Modules Open Source code \n
+Horion plus Client Important Modules Open Source code
+
 Horion plus客户端的重要功能开源
 
 ## Horion-plus是什么
-Horion-plus是一个Horion的分支，旨在在一些特定的服务器完美的游戏 \n
+Horion-plus是一个Horion的分支，旨在在一些特定的服务器完美的游戏
+
 Horion-plus长期闭源，有1.16.40和1.17.11两个版本，你可以使用它在一些更新版本协议不勤快的服务器游戏
 
 ## 为什么要开源
